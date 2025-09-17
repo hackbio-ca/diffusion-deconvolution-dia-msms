@@ -1,5 +1,7 @@
 # diffusion-deconvolution-dia-msms
 
+**Toronto Bioinformatics Hackathon, 2024**
+
 ## 🚀 Winner of the Donnelly Centre Innovation and Commercialization award!
 
 Apply diffusion models to deconvolute highly multiplexed DIA-MS/MS data by conditioning on MS1 signals to generate cleaner MS2 data for downstream analysis.
